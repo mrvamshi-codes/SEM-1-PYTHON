@@ -1,5 +1,0 @@
-import json
-
-student={"name":"test1", "id":435, "address":"xyz"}
-with open("js1.json","w") as f1:
-    json.dump(student,f1,indent=4)
