@@ -1,0 +1,4 @@
+Apple is red
+Banana is yellow
+Ant is small
+Mango is sweet
