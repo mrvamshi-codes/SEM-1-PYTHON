@@ -6,7 +6,7 @@ def gcd(a, b):
     else:
         return gcd(b, a % b)
 
-print(gcd(65,91))
+print(gcd(66,91))
 
 
     
