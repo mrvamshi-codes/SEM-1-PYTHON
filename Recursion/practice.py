@@ -27,14 +27,18 @@ print(combine(b,a,num))'''
 
 
 #3
-numbers = [1, 2, 3, 4, 5, 6]
+'''numbers = [1, 2, 3, 4, 5, 6]
 
 a = lambda n: n*2 if n%2!=0 else n    #missing the syntax of lambda function
                                        #value_if_true if condition else value_if_false
 def transform(func,lst):
     return list(map(func,lst))
 
-print(transform(a,numbers))
+print(transform(a,numbers))'''
+
+
+#4
+
 
 
 
